@@ -1,0 +1,19 @@
+body {
+  background: #f8e8a6;
+  font-family: "Delius Swash Caps", cursive;
+  text-align: center;
+  margin-top: 40px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  padding: 0 20px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
